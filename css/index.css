@@ -1,0 +1,13 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+body {
+    margin: 0 auto;
+    font-family: verdana;
+    font-size: 0.875em;
+    line-height: 1.6em;
+    max-width: 1200px;
+}
+
+
